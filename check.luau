@@ -1,5 +1,5 @@
 local players = game.Players:GetPlayers()
-local debugTesting = true
+local debugTesting = false
 local debugValue = 2563592335
 local durationForJoin = 5
 local joinedNotifications = false
